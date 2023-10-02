@@ -19,4 +19,9 @@ https://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_
 
 ### Vulkan
 https://www.cnblogs.com/bitzhuwei/p/Vulkan-Tutorial-01-Introduction.html
+
+
+### WebGPU
+
+https://www.youtube.com/playlist?list=PLCnmpqh8sKKynYSJqrrC0nWwPB3OVf5lt
   
